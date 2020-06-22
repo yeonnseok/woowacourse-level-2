@@ -10,3 +10,4 @@
 [submodule "atdd-subway-path"]
 	path = atdd-subway-path
 	url = https://github.com/yeonnseok/atdd-subway-path.git
+	branch = bossdog
