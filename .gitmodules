@@ -7,3 +7,6 @@
 	path = atdd-subway-admin
 	url = https://github.com/yeonnseok/atdd-subway-admin.git
 	branch = bossdog
+[submodule "atdd-subway-path"]
+	path = atdd-subway-path
+	url = https://github.com/yeonnseok/atdd-subway-path.git
