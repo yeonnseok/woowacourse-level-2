@@ -11,3 +11,6 @@
 	path = atdd-subway-path
 	url = https://github.com/yeonnseok/atdd-subway-path.git
 	branch = bossdog
+[submodule "atdd-subway-favorite"]
+	path = atdd-subway-favorite
+	url = https://github.com/yeonnseok/atdd-subway-favorite.git
