@@ -3,3 +3,6 @@
 	path = jwp-chess
 	url = https://github.com/yeonnseok/jwp-chess.git
 	branch = tester
+[submodule "atdd-subway-admin"]
+	path = atdd-subway-admin
+	url = https://github.com/yeonnseok/atdd-subway-admin.git
