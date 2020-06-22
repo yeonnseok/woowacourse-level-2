@@ -1,0 +1,3 @@
+[submodule "jwp-chess"]
+	path = jwp-chess
+	url = https://github.com/yeonnseok/jwp-chess.git
