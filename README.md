@@ -1,4 +1,4 @@
-# woowacourse-level2
+# woowacourse-level-2
 우아한 테크코스 2기 레벨 2 미션 및 코드리뷰 모음
 
 [`우아한 테크코스 교육페이지`](https://techcourse.woowahan.com/), [`우아한 테크코스 레벨2 회고`](https://bazzzi.tistory.com/2)
